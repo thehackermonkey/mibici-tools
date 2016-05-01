@@ -45,19 +45,19 @@ def getmarks(script, initstring):
 
 
 			result = {}
-			result ['status'] = status
-			result ['lat'] = float(lat)
-			result ['long'] = float(lon)
-			result ['id'] = idname
-			result ['station-desc'] = stationdesc
-			result ['capacity'] = int(totalcapacity)
-			result ['free-space'] = int(freespaces)
-			result ['available-bikes'] = int(bikes)
+			result ["status"] = status
+			result ["lat"] = float(lat)
+			result ["long"] = float(lon)
+			result ["station-desc"] = stationdesc
+			result ["capacity"] = int(totalcapacity)
+			result ["free-space"] = int(freespaces)
+			result ["available-bikes"] = int(bikes)
 
-			json_data = json.dumps(result)
 
-			big_obj[now].append({idname:json_data})
+			big_obj[now].append({str(idname): result})
 
-	print(big_obj)
+
+
+	print(json.dumps(big_obj))
 
 getmarks(scrip_txt, 'newMarker')
