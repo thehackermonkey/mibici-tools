@@ -1,6 +1,8 @@
 from io import StringIO
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
+import json
+import datetime
 
 html = urlopen("http://amg.bktbp.com/monitor.php")
 bsObj = BeautifulSoup(html, "html.parser")
@@ -8,15 +10,21 @@ ss = bsObj.script.get_text()
 
 scrip_txt = StringIO(ss)
 
-# def getmarks(script, initstring):
-# 	for line in script:
-# 		if line.startswith(initstring):
-# 			elementos = line.split(",")
-# 			for elemento in elementos:
-# 				print(elemento+',')
-#getmarks(scrip_txt, 'newMarker')
+
+#experiment area
 
 def getmarks(script, initstring):
+	date_handler = lambda obj: (
+	obj.isoformat()
+	if isinstance(obj, datetime.datetime)
+	or isinstance(obj, datetime.date)
+	else None
+	)
+	
+	now = json.dumps(datetime.datetime.now(), default=date_handler)
+
+	big_obj = {now: []}
+
 	for line in script:
 		if line.startswith(initstring):
 			elementos = line.split(",")
@@ -35,10 +43,21 @@ def getmarks(script, initstring):
 			bikesplit =elementos[6].split(")")
 			bikes = bikesplit[0]
 
-			mark = {"status": status , "lat": float(lat) , "long": float(lon) , "id": idname , "station-desc": stationdesc , "total": int(totalcapacity) , "espacios": int(freespaces) , "bicicletas": int(bikes)}
-			print(mark)
+
+			result = {}
+			result ['status'] = status
+			result ['lat'] = float(lat)
+			result ['long'] = float(lon)
+			result ['id'] = idname
+			result ['station-desc'] = stationdesc
+			result ['capacity'] = int(totalcapacity)
+			result ['free-space'] = int(freespaces)
+			result ['available-bikes'] = int(bikes)
+
+			json_data = json.dumps(result)
+
+			big_obj[now].append({idname:json_data})
+
+	print(big_obj)
 
 getmarks(scrip_txt, 'newMarker')
-
-
-#experiment area
