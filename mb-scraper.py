@@ -1,6 +1,6 @@
 ##importando mybeautiful soup
 from io import StringIO
-from urllib.request import urlopen
+from urllib2 import urlopen
 from bs4 import BeautifulSoup
 import json
 import datetime

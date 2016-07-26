@@ -13,3 +13,8 @@ Por ahora puede obtener (manualmente) los datos en tiempo real de todas las cicl
 El resultado actual:
 
 ![Resultados](resultados.png)
+
+
+### Trabajando en una visualización de movimiento de bicicletas
+
+![Visualización](visualizacion.png)
