@@ -17,4 +17,4 @@ El resultado actual:
 
 ### Trabajando en una visualización de movimiento de bicicletas
 
-![Visualización](visualizacion.png)
+![Visualización](visualizacion.gif)
