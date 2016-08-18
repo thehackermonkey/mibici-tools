@@ -1,0 +1,2567 @@
+{
+   "\"2016-08-14T11:00:42.435604\"": [
+      {
+         " GDL-02": {
+            "status": "In Service",
+            "available-bikes": 3,
+            "capacity": 15,
+            "free-space": 12,
+            "long": -103.366,
+            "station-desc": " C. Colonias  / Av.  Niños héroes'",
+            "lat": 20.667228
+         }
+      },
+      {
+         " GDL-03": {
+            "status": "In Service",
+            "available-bikes": 11,
+            "capacity": 19,
+            "free-space": 8,
+            "long": -103.368252,
+            "station-desc": " C. Vidrio / Av. Chapultepec'",
+            "lat": 20.66769
+         }
+      },
+      {
+         " GDL-04": {
+            "status": "In Service",
+            "available-bikes": 6,
+            "capacity": 11,
+            "free-space": 5,
+            "long": -103.352226,
+            "station-desc": " C. Reforma /C. Mariano de la Bárcena'",
+            "lat": 20.680202
+         }
+      },
+      {
+         " GDL-05": {
+            "status": "In Service",
+            "available-bikes": 8,
+            "capacity": 11,
+            "free-space": 3,
+            "long": -103.338863,
+            "station-desc": " C. San Diego / Calzada Independencia'",
+            "lat": 20.681151
+         }
+      },
+      {
+         " GDL-06": {
+            "status": "In Service",
+            "available-bikes": 7,
+            "capacity": 11,
+            "free-space": 4,
+            "long": -103.3443801,
+            "station-desc": " C. Venustiano Carranza / C. Reforma'",
+            "lat": 20.6807519
+         }
+      },
+      {
+         " GDL-07": {
+            "status": "In Service",
+            "available-bikes": 11,
+            "capacity": 15,
+            "free-space": 4,
+            "long": -103.350562,
+            "station-desc": "C. Epigmenio Glez./Av. Cristobal C.'",
+            "lat": 20.666771
+         }
+      },
+      {
+         " GDL-08": {
+            "status": "In Service",
+            "available-bikes": 10,
+            "capacity": 15,
+            "free-space": 5,
+            "long": -103.350396,
+            "station-desc": " C. J. Angulo / C. González Ortega'",
+            "lat": 20.681871
+         }
+      },
+      {
+         " GDL-09": {
+            "status": "In Service",
+            "available-bikes": 5,
+            "capacity": 19,
+            "free-space": 14,
+            "long": -103.353835,
+            "station-desc": " Calz. Federalismo/ C. J. Angulo'",
+            "lat": 20.681984
+         }
+      },
+      {
+         " GDL-10": {
+            "status": "In Service",
+            "available-bikes": 5,
+            "capacity": 11,
+            "free-space": 6,
+            "long": -103.357267,
+            "station-desc": " C. Cruz verde / C. Joaquin Angulo'",
+            "lat": 20.681786
+         }
+      },
+      {
+         " GDL-11": {
+            "status": "In Service",
+            "available-bikes": 2,
+            "capacity": 11,
+            "free-space": 9,
+            "long": -103.360099,
+            "station-desc": " C. Garibaldi / C. Frías'",
+            "lat": 20.681081
+         }
+      },
+      {
+         " GDL-12": {
+            "status": "In Service",
+            "available-bikes": 6,
+            "capacity": 11,
+            "free-space": 5,
+            "long": -103.36292,
+            "station-desc": " C. Joaquín Angulo / C. Ghilardi'",
+            "lat": 20.681989
+         }
+      },
+      {
+         " GDL-13": {
+            "status": "In Service",
+            "available-bikes": 4,
+            "capacity": 11,
+            "free-space": 7,
+            "long": -103.370499,
+            "station-desc": " C. Vidrio  / C. Marsella'",
+            "lat": 20.667623
+         }
+      },
+      {
+         " GDL-14": {
+            "status": "In Service",
+            "available-bikes": 8,
+            "capacity": 15,
+            "free-space": 7,
+            "long": -103.365969,
+            "station-desc": "C. J. Angulo/C. José Clemente Orozco'",
+            "lat": 20.682059
+         }
+      },
+      {
+         " GDL-15": {
+            "status": "In Service",
+            "available-bikes": 3,
+            "capacity": 15,
+            "free-space": 11,
+            "long": -103.369349,
+            "station-desc": " C. Herrera y Cairo / C. Pedro Buzeta'",
+            "lat": 20.683191
+         }
+      },
+      {
+         " GDL-16": {
+            "status": "In Service",
+            "available-bikes": 8,
+            "capacity": 15,
+            "free-space": 7,
+            "long": -103.372642,
+            "station-desc": "C. Bernardo de Balbuena/C. J. Angulo'",
+            "lat": 20.682007
+         }
+      },
+      {
+         " GDL-17": {
+            "status": "In Service",
+            "available-bikes": 1,
+            "capacity": 15,
+            "free-space": 14,
+            "long": -103.372841,
+            "station-desc": " Av. México / C. Bernardo de Balbuena'",
+            "lat": 20.679086
+         }
+      },
+      {
+         " GDL-18": {
+            "status": "In Service",
+            "available-bikes": 6,
+            "capacity": 11,
+            "free-space": 5,
+            "long": -103.370658,
+            "station-desc": " Av. México / C. Manuel M. Diéguez'",
+            "lat": 20.679296
+         }
+      },
+      {
+         " GDL-19": {
+            "status": "In Service",
+            "available-bikes": 8,
+            "capacity": 19,
+            "free-space": 11,
+            "long": -103.368045,
+            "station-desc": "  C. Juan Manuel / C. Andrés Terán'",
+            "lat": 20.678835
+         }
+      },
+      {
+         " GDL-20": {
+            "status": "In Service",
+            "available-bikes": 11,
+            "capacity": 15,
+            "free-space": 4,
+            "long": -103.36573,
+            "station-desc": " C. Juan Manuel / C. General Coronado'",
+            "lat": 20.678714
+         }
+      },
+      {
+         " GDL-21": {
+            "status": "In Service",
+            "available-bikes": 0,
+            "capacity": 15,
+            "free-space": 15,
+            "long": -103.362224,
+            "station-desc": " C. Nicolás Romero / C. Reforma'",
+            "lat": 20.67966
+         }
+      },
+      {
+         " GDL-22": {
+            "status": "In Service",
+            "available-bikes": 11,
+            "capacity": 15,
+            "free-space": 4,
+            "long": -103.35913,
+            "station-desc": "C. San Felipe /C. Enrique D. de León'",
+            "lat": 20.679389
+         }
+      },
+      {
+         " GDL-23": {
+            "status": "In Service",
+            "available-bikes": 3,
+            "capacity": 15,
+            "free-space": 12,
+            "long": -103.356281,
+            "station-desc": " C. Jesús / C. San Felipe'",
+            "lat": 20.679309
+         }
+      },
+      {
+         " GDL-24": {
+            "status": "In Service",
+            "available-bikes": 6,
+            "capacity": 15,
+            "free-space": 8,
+            "long": -103.354035,
+            "station-desc": " Av.  Federalismo / C. Juan Manuel'",
+            "lat": 20.678777
+         }
+      },
+      {
+         " GDL-25": {
+            "status": "In Service",
+            "available-bikes": 3,
+            "capacity": 15,
+            "free-space": 12,
+            "long": -103.350146,
+            "station-desc": " C. Reforma / C. González Ortega'",
+            "lat": 20.680227
+         }
+      },
+      {
+         " GDL-26": {
+            "status": "In Service",
+            "available-bikes": 7,
+            "capacity": 15,
+            "free-space": 8,
+            "long": -103.348377,
+            "station-desc": " C. Pedro Loza / C. Reforma'",
+            "lat": 20.680478
+         }
+      },
+      {
+         " GDL-27": {
+            "status": "In Service",
+            "available-bikes": 4,
+            "capacity": 11,
+            "free-space": 7,
+            "long": -103.345198,
+            "station-desc": " C. Belén / C. San Felipe'",
+            "lat": 20.679861
+         }
+      },
+      {
+         " GDL-28": {
+            "status": "In Service",
+            "available-bikes": 1,
+            "capacity": 11,
+            "free-space": 10,
+            "long": -103.36113,
+            "station-desc": " C. Gregorio Dávila / C. Manuel Acuña'",
+            "lat": 20.684187
+         }
+      },
+      {
+         " GDL-29": {
+            "status": "In Service",
+            "available-bikes": 7,
+            "capacity": 15,
+            "free-space": 8,
+            "long": -103.339753,
+            "station-desc": "Calz. Indep. /C. Juan Manuel'",
+            "lat": 20.679505
+         }
+      },
+      {
+         " GDL-30": {
+            "status": "In Service",
+            "available-bikes": 5,
+            "capacity": 15,
+            "free-space": 10,
+            "long": -103.367501,
+            "station-desc": " C. Pedro Moreno/ C. Progreso'",
+            "lat": 20.675461
+         }
+      },
+      {
+         " GDL-31": {
+            "status": "In Service",
+            "available-bikes": 3,
+            "capacity": 11,
+            "free-space": 8,
+            "long": -103.368215,
+            "station-desc": " C. Hospital / C. Andrés Terán'",
+            "lat": 20.685652
+         }
+      },
+      {
+         " GDL-32": {
+            "status": "In Service",
+            "available-bikes": 11,
+            "capacity": 15,
+            "free-space": 4,
+            "long": -103.344908,
+            "station-desc": " Av. Hidalgo  / C. Belén'",
+            "lat": 20.6772627
+         }
+      },
+      {
+         " GDL-33": {
+            "status": "In Service",
+            "available-bikes": 11,
+            "capacity": 15,
+            "free-space": 4,
+            "long": -103.347983,
+            "station-desc": " Av. Hidalgo / C. Pedro Loza'",
+            "lat": 20.677419
+         }
+      },
+      {
+         " GDL-34": {
+            "status": "In Service",
+            "available-bikes": 4,
+            "capacity": 11,
+            "free-space": 7,
+            "long": -103.350244,
+            "station-desc": " C. Morelos / C. Donato Guerra'",
+            "lat": 20.676461
+         }
+      },
+      {
+         " GDL-35": {
+            "status": "In Service",
+            "available-bikes": 3,
+            "capacity": 11,
+            "free-space": 8,
+            "long": -103.3534145,
+            "station-desc": " Andador Coronilla / Av. Hidalgo'",
+            "lat": 20.677315
+         }
+      },
+      {
+         " GDL-36": {
+            "status": "In Service",
+            "available-bikes": 12,
+            "capacity": 19,
+            "free-space": 7,
+            "long": -103.356458,
+            "station-desc": " C. Marcos Castellanos/ C. Morelos'",
+            "lat": 20.676078
+         }
+      },
+      {
+         " GDL-37": {
+            "status": "In Service",
+            "available-bikes": 7,
+            "capacity": 15,
+            "free-space": 8,
+            "long": -103.358466,
+            "station-desc": " C. Juan N. Cumplido /C. Independencia'",
+            "lat": 20.678034
+         }
+      },
+      {
+         " GDL-38": {
+            "status": "In Service",
+            "available-bikes": 5,
+            "capacity": 15,
+            "free-space": 10,
+            "long": -103.362331,
+            "station-desc": " C. Nicolás Romero / Av. Hidalgo'",
+            "lat": 20.676656
+         }
+      },
+      {
+         " GDL-39": {
+            "status": "In Service",
+            "available-bikes": 8,
+            "capacity": 15,
+            "free-space": 7,
+            "long": -103.365088,
+            "station-desc": " C. General Coronado / Av. Hidalgo'",
+            "lat": 20.677108
+         }
+      },
+      {
+         " GDL-40": {
+            "status": "In Service",
+            "available-bikes": 9,
+            "capacity": 15,
+            "free-space": 6,
+            "long": -103.367049,
+            "station-desc": " C. Morelos / C. Progreso'",
+            "lat": 20.676067
+         }
+      },
+      {
+         " GDL-41": {
+            "status": "In Service",
+            "available-bikes": 6,
+            "capacity": 15,
+            "free-space": 9,
+            "long": -103.37066,
+            "station-desc": " C. Manuel M. Diéguez / Av. Hidalgo'",
+            "lat": 20.67671
+         }
+      },
+      {
+         " GDL-42": {
+            "status": "In Service",
+            "available-bikes": 6,
+            "capacity": 15,
+            "free-space": 9,
+            "long": -103.372687,
+            "station-desc": " C. Bernardo de Balbuena / Av. Hidalgo'",
+            "lat": 20.676628
+         }
+      },
+      {
+         " GDL-43": {
+            "status": "In Service",
+            "available-bikes": 4,
+            "capacity": 11,
+            "free-space": 7,
+            "long": -103.372613,
+            "station-desc": " C. Simón Bolivar / C. López Cotilla'",
+            "lat": 20.673756
+         }
+      },
+      {
+         " GDL-44": {
+            "status": "In Service",
+            "available-bikes": 3,
+            "capacity": 15,
+            "free-space": 11,
+            "long": -103.371639,
+            "station-desc": "C. Gral. San Martín /Av.  Vallarta'",
+            "lat": 20.674636
+         }
+      },
+      {
+         " GDL-45": {
+            "status": "In Service",
+            "available-bikes": 10,
+            "capacity": 19,
+            "free-space": 9,
+            "long": -103.370147,
+            "station-desc": " C. Pedro Moreno / C. Marsella'",
+            "lat": 20.675444
+         }
+      },
+      {
+         " GDL-46": {
+            "status": "In Service",
+            "available-bikes": 7,
+            "capacity": 11,
+            "free-space": 4,
+            "long": -103.365025,
+            "station-desc": " C. Emerson / Av. Vallarta'",
+            "lat": 20.675014
+         }
+      },
+      {
+         " GDL-47": {
+            "status": "In Service",
+            "available-bikes": 7,
+            "capacity": 15,
+            "free-space": 8,
+            "long": -103.362351,
+            "station-desc": " C. Robles Gil / Av. Vallarta'",
+            "lat": 20.674931
+         }
+      },
+      {
+         " GDL-48": {
+            "status": "In Service",
+            "available-bikes": 7,
+            "capacity": 15,
+            "free-space": 8,
+            "long": -103.358548,
+            "station-desc": " C. Escorza / Av. Vallarta'",
+            "lat": 20.674721
+         }
+      },
+      {
+         " GDL-49": {
+            "status": "In Service",
+            "available-bikes": 12,
+            "capacity": 33,
+            "free-space": 21,
+            "long": -103.354873221,
+            "station-desc": " C. Marcos Castellanos /Av. Vallarta'",
+            "lat": 20.6745336
+         }
+      },
+      {
+         " GDL-50": {
+            "status": "In Service",
+            "available-bikes": 15,
+            "capacity": 23,
+            "free-space": 8,
+            "long": -103.354579,
+            "station-desc": " C. Pedro Moreno / Calz. Federalismo'",
+            "lat": 20.675746
+         }
+      },
+      {
+         " GDL-51 ": {
+            "status": "In Service",
+            "available-bikes": 8,
+            "capacity": 15,
+            "free-space": 7,
+            "long": -103.352663,
+            "station-desc": " C. 8 de Julio / Av. Vallarta'",
+            "lat": 20.674559
+         }
+      },
+      {
+         " GDL-52": {
+            "status": "In Service",
+            "available-bikes": 16,
+            "capacity": 23,
+            "free-space": 7,
+            "long": -103.347889,
+            "station-desc": " Av. Vallarta / Av. 16 de Sep.'",
+            "lat": 20.675244
+         }
+      },
+      {
+         " GDL-53": {
+            "status": "In Service",
+            "available-bikes": 1,
+            "capacity": 15,
+            "free-space": 14,
+            "long": -103.345665,
+            "station-desc": " C. Maestranza / Av. Vallarta'",
+            "lat": 20.675401
+         }
+      },
+      {
+         " GDL-54": {
+            "status": "In Service",
+            "available-bikes": 9,
+            "capacity": 23,
+            "free-space": 14,
+            "long": -103.342049,
+            "station-desc": " Av. Vallarta / Calzada Independencia'",
+            "lat": 20.675421
+         }
+      },
+      {
+         " GDL-55": {
+            "status": "In Service",
+            "available-bikes": 11,
+            "capacity": 15,
+            "free-space": 4,
+            "long": -103.345366,
+            "station-desc": " C. Degollado / C. Prisciliano Sánchez'",
+            "lat": 20.672696
+         }
+      },
+      {
+         " GDL-56": {
+            "status": "In Service",
+            "available-bikes": 8,
+            "capacity": 15,
+            "free-space": 7,
+            "long": -103.347422,
+            "station-desc": " Av. 16 de Sept. / C. Miguel Blanco'",
+            "lat": 20.671971
+         }
+      },
+      {
+         " GDL-57": {
+            "status": "In Service",
+            "available-bikes": 6,
+            "capacity": 11,
+            "free-space": 5,
+            "long": -103.349573,
+            "station-desc": " C. Ocampo / C. Prisciliano Sánchez'",
+            "lat": 20.672516
+         }
+      },
+      {
+         " GDL-58": {
+            "status": "In Service",
+            "available-bikes": 7,
+            "capacity": 11,
+            "free-space": 4,
+            "long": -103.353542,
+            "station-desc": " C. Pavo / C. Prisciliano Sánchez'",
+            "lat": 20.672641
+         }
+      },
+      {
+         " GDL-59": {
+            "status": "In Service",
+            "available-bikes": 4,
+            "capacity": 15,
+            "free-space": 11,
+            "long": -103.355508,
+            "station-desc": " C. Miguel Blanco / C. Penitenciaria'",
+            "lat": 20.672231
+         }
+      },
+      {
+         " GDL-60": {
+            "status": "In Service",
+            "available-bikes": 7,
+            "capacity": 23,
+            "free-space": 15,
+            "long": -103.357684,
+            "station-desc": " C. Madero/ C. Camarena'",
+            "lat": 20.6734
+         }
+      },
+      {
+         " GDL-61": {
+            "status": "In Service",
+            "available-bikes": 7,
+            "capacity": 19,
+            "free-space": 12,
+            "long": -103.361274,
+            "station-desc": " C. Libertad /  C. Argentina'",
+            "lat": 20.671778
+         }
+      },
+      {
+         " GDL-62": {
+            "status": "In Service",
+            "available-bikes": 4,
+            "capacity": 15,
+            "free-space": 11,
+            "long": -103.365055,
+            "station-desc": " C. Libertad / C. Moscú'",
+            "lat": 20.673072
+         }
+      },
+      {
+         " GDL-63": {
+            "status": "In Service",
+            "available-bikes": 13,
+            "capacity": 23,
+            "free-space": 10,
+            "long": -103.366139,
+            "station-desc": " C. Colonias  / C. López Cotilla'",
+            "lat": 20.674132
+         }
+      },
+      {
+         " GDL-64": {
+            "status": "In Service",
+            "available-bikes": 14,
+            "capacity": 19,
+            "free-space": 5,
+            "long": -103.370571,
+            "station-desc": " C. Marsella / C. López Cotilla'",
+            "lat": 20.673321
+         }
+      },
+      {
+         " GDL-65": {
+            "status": "In Service",
+            "available-bikes": 8,
+            "capacity": 15,
+            "free-space": 7,
+            "long": -103.372584,
+            "station-desc": " C. Simón Bolivar / Av. La Paz'",
+            "lat": 20.672372
+         }
+      },
+      {
+         " GDL-66": {
+            "status": "In Service",
+            "available-bikes": 1,
+            "capacity": 15,
+            "free-space": 13,
+            "long": -103.371786,
+            "station-desc": "C. Lerdo de Tejada/C. Gral. Sn Martín'",
+            "lat": 20.671364
+         }
+      },
+      {
+         " GDL-67": {
+            "status": "In Service",
+            "available-bikes": 4,
+            "capacity": 19,
+            "free-space": 15,
+            "long": -103.369583,
+            "station-desc": " C. Guadalupe Zuno / C. Marsella'",
+            "lat": 20.670496
+         }
+      },
+      {
+         " GDL-68": {
+            "status": "In Service",
+            "available-bikes": 12,
+            "capacity": 19,
+            "free-space": 7,
+            "long": -103.368306,
+            "station-desc": " C. Guadalupe Zuno / Av. Chapultepec'",
+            "lat": 20.670512
+         }
+      },
+      {
+         " GDL-69": {
+            "status": "In Service",
+            "available-bikes": 8,
+            "capacity": 15,
+            "free-space": 6,
+            "long": -103.366071,
+            "station-desc": " C. Colonias / C. Guadalupe Zuno'",
+            "lat": 20.670468
+         }
+      },
+      {
+         " GDL-70": {
+            "status": "In Service",
+            "available-bikes": 2,
+            "capacity": 11,
+            "free-space": 9,
+            "long": -103.363633,
+            "station-desc": " Av. La  Paz / C. Juan de Ojeda'",
+            "lat": 20.671455
+         }
+      },
+      {
+         " GDL-71": {
+            "status": "In Service",
+            "available-bikes": 8,
+            "capacity": 11,
+            "free-space": 3,
+            "long": -103.359537,
+            "station-desc": " Av. La Paz / Av. Enrique Díaz de León'",
+            "lat": 20.670362
+         }
+      },
+      {
+         " GDL-72": {
+            "status": "In Service",
+            "available-bikes": 3,
+            "capacity": 15,
+            "free-space": 12,
+            "long": -103.357589,
+            "station-desc": " Av. La Paz / C. Camarena'",
+            "lat": 20.67056
+         }
+      },
+      {
+         " GDL-73": {
+            "status": "In Service",
+            "available-bikes": 9,
+            "capacity": 19,
+            "free-space": 9,
+            "long": -103.355032,
+            "station-desc": " Av. La Paz / Av. Federalismo'",
+            "lat": 20.669955
+         }
+      },
+      {
+         " GDL-74": {
+            "status": "In Service",
+            "available-bikes": 7,
+            "capacity": 11,
+            "free-space": 4,
+            "long": -103.351651,
+            "station-desc": " C. Enrique González / C. Libertad'",
+            "lat": 20.67131
+         }
+      },
+      {
+         " GDL-75": {
+            "status": "In Service",
+            "available-bikes": 6,
+            "capacity": 11,
+            "free-space": 5,
+            "long": -103.348768,
+            "station-desc": " C. Rio Seco / C. Nueva Galicia'",
+            "lat": 20.669628
+         }
+      },
+      {
+         " GDL-76": {
+            "status": "In Service",
+            "available-bikes": 7,
+            "capacity": 15,
+            "free-space": 8,
+            "long": -103.346195,
+            "station-desc": " C. Ramón Corona / C. Libertad'",
+            "lat": 20.670243
+         }
+      },
+      {
+         " GDL-77": {
+            "status": "In Service",
+            "available-bikes": 7,
+            "capacity": 15,
+            "free-space": 8,
+            "long": -103.36134,
+            "station-desc": " C. Argentina / C. Pedro Moreno'",
+            "lat": 20.675631
+         }
+      },
+      {
+         " GDL-78": {
+            "status": "In Service",
+            "available-bikes": 3,
+            "capacity": 11,
+            "free-space": 8,
+            "long": -103.346775,
+            "station-desc": " C. Comercio / C. La Paz'",
+            "lat": 20.667946
+         }
+      },
+      {
+         " GDL-79": {
+            "status": "In Service",
+            "available-bikes": 2,
+            "capacity": 11,
+            "free-space": 9,
+            "long": -103.351234,
+            "station-desc": " Av. La Paz / C. Donato Guerra'",
+            "lat": 20.668985
+         }
+      },
+      {
+         " GDL-80": {
+            "status": "In Service",
+            "available-bikes": 4,
+            "capacity": 15,
+            "free-space": 11,
+            "long": -103.373252,
+            "station-desc": " C. Manuel Acuña / Av. Américas'",
+            "lat": 20.68432
+         }
+      },
+      {
+         " GDL-81": {
+            "status": "In Service",
+            "available-bikes": 7,
+            "capacity": 11,
+            "free-space": 4,
+            "long": -103.363338,
+            "station-desc": " C. Venezuela / Av. Niños Héroes'",
+            "lat": 20.667352
+         }
+      },
+      {
+         " GDL-82": {
+            "status": "In Service",
+            "available-bikes": 4,
+            "capacity": 15,
+            "free-space": 11,
+            "long": -103.362535,
+            "station-desc": "C. Gdpe. Montenegro/C. Nuño de Guzman'",
+            "lat": 20.669326
+         }
+      },
+      {
+         " GDL-84": {
+            "status": "In Service",
+            "available-bikes": 5,
+            "capacity": 19,
+            "free-space": 14,
+            "long": -103.368312,
+            "station-desc": " C. Montenegro / Av. Chapultepec'",
+            "lat": 20.669306
+         }
+      },
+      {
+         " GDL-85": {
+            "status": "In Service",
+            "available-bikes": 4,
+            "capacity": 15,
+            "free-space": 11,
+            "long": -103.373378,
+            "station-desc": "C. Gdpe. Zuno/ Av.  Unión'",
+            "lat": 20.670426
+         }
+      },
+      {
+         " GDL-86": {
+            "status": "In Service",
+            "available-bikes": 0,
+            "capacity": 15,
+            "free-space": 15,
+            "long": -103.372444,
+            "station-desc": " C. Simón Bolivar / Av. Niños Héroes'",
+            "lat": 20.66704
+         }
+      },
+      {
+         " ZPN-01": {
+            "status": "In Service",
+            "available-bikes": 7,
+            "capacity": 15,
+            "free-space": 8,
+            "long": -103.396083,
+            "station-desc": " C. Emilio Carranza / Av. Carretera Tesistán'",
+            "lat": 20.73244
+         }
+      },
+      {
+         " ZPN-02": {
+            "status": "In Service",
+            "available-bikes": 4,
+            "capacity": 11,
+            "free-space": 7,
+            "long": -103.397466,
+            "station-desc": " C. Emilio Carranza / C. Independencia'",
+            "lat": 20.726376
+         }
+      },
+      {
+         " ZPN-03": {
+            "status": "In Service",
+            "available-bikes": 8,
+            "capacity": 19,
+            "free-space": 11,
+            "long": -103.398071,
+            "station-desc": " C. Emilio Carranza / Av. Hidalgo'",
+            "lat": 20.723081
+         }
+      },
+      {
+         " ZPN-05": {
+            "status": "In Service",
+            "available-bikes": 6,
+            "capacity": 11,
+            "free-space": 5,
+            "long": -103.394267,
+            "station-desc": " C. Del Corral / C. Anáhuac'",
+            "lat": 20.730841
+         }
+      },
+      {
+         " ZPN-06": {
+            "status": "In Service",
+            "available-bikes": 5,
+            "capacity": 15,
+            "free-space": 10,
+            "long": -103.395308,
+            "station-desc": " C. Independencia / C. Anáhuac'",
+            "lat": 20.725815
+         }
+      },
+      {
+         " ZPN-07": {
+            "status": "In Service",
+            "available-bikes": 9,
+            "capacity": 19,
+            "free-space": 10,
+            "long": -103.392672,
+            "station-desc": " C. Libertad / Nicolás Bravo'",
+            "lat": 20.726196
+         }
+      },
+      {
+         " ZPN-08": {
+            "status": "In Service",
+            "available-bikes": 9,
+            "capacity": 19,
+            "free-space": 10,
+            "long": -103.394263,
+            "station-desc": " C. Vicente Guerrero / Av. Hidalgo'",
+            "lat": 20.722095
+         }
+      },
+      {
+         " ZPN-09": {
+            "status": "In Service",
+            "available-bikes": 5,
+            "capacity": 15,
+            "free-space": 10,
+            "long": -103.391922,
+            "station-desc": " C. Nicolás Bravo / C. La Milpa'",
+            "lat": 20.729083
+         }
+      },
+      {
+         " ZPN-10": {
+            "status": "In Service",
+            "available-bikes": 5,
+            "capacity": 11,
+            "free-space": 6,
+            "long": -103.394585,
+            "station-desc": " C. Ramón Corona / C. Cuauhtémoc'",
+            "lat": 20.723889
+         }
+      },
+      {
+         " ZPN-11": {
+            "status": "In Service",
+            "available-bikes": 7,
+            "capacity": 11,
+            "free-space": 4,
+            "long": -103.389242,
+            "station-desc": " C. Pino Suárez / C. López Cotilla'",
+            "lat": 20.726558
+         }
+      },
+      {
+         " ZPN-12": {
+            "status": "In Service",
+            "available-bikes": 8,
+            "capacity": 19,
+            "free-space": 11,
+            "long": -103.39031,
+            "station-desc": " C. Pino Suárez / Av. Juan Pablo II'",
+            "lat": 20.728446
+         }
+      },
+      {
+         " ZPN-13": {
+            "status": "In Service",
+            "available-bikes": 6,
+            "capacity": 23,
+            "free-space": 17,
+            "long": -103.391894,
+            "station-desc": " C. Eva Briseño / C. Javier Mina'",
+            "lat": 20.720438
+         }
+      },
+      {
+         " ZPN-14": {
+            "status": "In Service",
+            "available-bikes": 4,
+            "capacity": 11,
+            "free-space": 7,
+            "long": -103.390802,
+            "station-desc": " C. Juan Manuel / Pino Suárez'",
+            "lat": 20.724044
+         }
+      },
+      {
+         " ZPN-15": {
+            "status": "In Service",
+            "available-bikes": 3,
+            "capacity": 11,
+            "free-space": 8,
+            "long": -103.387365,
+            "station-desc": " C. Sarcófago / C. Panteon'",
+            "lat": 20.725261
+         }
+      },
+      {
+         " ZPN-16": {
+            "status": "In Service",
+            "available-bikes": 8,
+            "capacity": 19,
+            "free-space": 11,
+            "long": -103.3902,
+            "station-desc": " Av. Hidalgo/ C. Emiliano Zapata'",
+            "lat": 20.721643
+         }
+      },
+      {
+         " ZPN-17": {
+            "status": "In Service",
+            "available-bikes": 5,
+            "capacity": 15,
+            "free-space": 10,
+            "long": -103.388657,
+            "station-desc": " C. Juan Manuel / C. Pedro Moreno'",
+            "lat": 20.72374
+         }
+      },
+      {
+         " ZPN-18": {
+            "status": "In Service",
+            "available-bikes": 8,
+            "capacity": 23,
+            "free-space": 15,
+            "long": -103.386286,
+            "station-desc": " Av. Juan Pablo II / C. Santa Lucía'",
+            "lat": 20.727068
+         }
+      },
+      {
+         " ZPN-19": {
+            "status": "In Service",
+            "available-bikes": 7,
+            "capacity": 19,
+            "free-space": 12,
+            "long": -103.385865,
+            "station-desc": " C. Juan Manuel  / C. San Juan'",
+            "lat": 20.723243
+         }
+      },
+      {
+         " ZPN-20": {
+            "status": "In Service",
+            "available-bikes": 8,
+            "capacity": 15,
+            "free-space": 7,
+            "long": -103.386942,
+            "station-desc": " Av. Aurelio Ortega / Av. Laureles'",
+            "lat": 20.721039
+         }
+      },
+      {
+         " ZPN-21": {
+            "status": "In Service",
+            "available-bikes": 11,
+            "capacity": 15,
+            "free-space": 4,
+            "long": -103.384156,
+            "station-desc": " Blvrd. Panamericano / C. Santa Mónica'",
+            "lat": 20.72832
+         }
+      },
+      {
+         " ZPN-22": {
+            "status": "In Service",
+            "available-bikes": 6,
+            "capacity": 15,
+            "free-space": 9,
+            "long": -103.383147,
+            "station-desc": " Av. Aurelio Ortega / C. Morelos'",
+            "lat": 20.722123
+         }
+      },
+      {
+         " ZPN-23": {
+            "status": "In Service",
+            "available-bikes": 4,
+            "capacity": 11,
+            "free-space": 7,
+            "long": -103.383614,
+            "station-desc": " C. Juan Diego / C. Sarcófago'",
+            "lat": 20.72489
+         }
+      },
+      {
+         " ZPN-24": {
+            "status": "In Service",
+            "available-bikes": 5,
+            "capacity": 11,
+            "free-space": 6,
+            "long": -103.381901,
+            "station-desc": " Manuel H. Alatorre / C. Industria'",
+            "lat": 20.72356
+         }
+      },
+      {
+         " ZPN-25": {
+            "status": "In Service",
+            "available-bikes": 6,
+            "capacity": 15,
+            "free-space": 9,
+            "long": -103.388162,
+            "station-desc": " C. Pedro Moreno / C. Jesus García'",
+            "lat": 20.727913
+         }
+      },
+      {
+         " ZPN-26": {
+            "status": "In Service",
+            "available-bikes": 5,
+            "capacity": 11,
+            "free-space": 6,
+            "long": -103.399964,
+            "station-desc": " C. 16 de Septiembre / Av. Hidalgo'",
+            "lat": 20.724277
+         }
+      },
+      {
+         " ZPN-27": {
+            "status": "In Service",
+            "available-bikes": 6,
+            "capacity": 11,
+            "free-space": 5,
+            "long": -103.388629,
+            "station-desc": " C. 5 de Mayo / C. Noviembre'",
+            "lat": 20.720452
+         }
+      },
+      {
+         " ZPN-28": {
+            "status": "In Service",
+            "available-bikes": 11,
+            "capacity": 19,
+            "free-space": 8,
+            "long": -103.398598,
+            "station-desc": " C. Ejido / C. Sabino Delgado'",
+            "lat": 20.729724
+         }
+      },
+      {
+         " ZPN-29": {
+            "status": "In Service",
+            "available-bikes": 6,
+            "capacity": 15,
+            "free-space": 9,
+            "long": -103.393858,
+            "station-desc": " C. La Villa / C. Cuauhtémoc'",
+            "lat": 20.728147
+         }
+      },
+      {
+         " ZPN-30": {
+            "status": "In Service",
+            "available-bikes": 5,
+            "capacity": 15,
+            "free-space": 10,
+            "long": -103.399976,
+            "station-desc": " C. Francisco Sarabia / C. Libertad'",
+            "lat": 20.727381
+         }
+      },
+      {
+         " ZPN-31": {
+            "status": "Planned",
+            "available-bikes": 6,
+            "capacity": 19,
+            "free-space": 13,
+            "long": -103.40945,
+            "station-desc": " C. Niño Obrero/ Calz. Lázaro Cárdenas'",
+            "lat": 20.67342
+         }
+      },
+      {
+         " ZPN-32": {
+            "status": "Planned",
+            "available-bikes": 6,
+            "capacity": 19,
+            "free-space": 13,
+            "long": -103.40741,
+            "station-desc": " C. San Román / C. Santa Rita'",
+            "lat": 20.67091
+         }
+      },
+      {
+         " ZPN-33": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 15,
+            "free-space": 10,
+            "long": -103.40458,
+            "station-desc": " Av. San Ignacio / Clzda. Lázaro Cárdenas'",
+            "lat": 20.6707
+         }
+      },
+      {
+         " ZPN-34": {
+            "status": "Planned",
+            "available-bikes": 6,
+            "capacity": 19,
+            "free-space": 13,
+            "long": -103.40968,
+            "station-desc": " C. San Demetrio / C. Niño Obrero'",
+            "lat": 20.66984
+         }
+      },
+      {
+         " ZPN-35": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 11,
+            "free-space": 6,
+            "long": -103.40495,
+            "station-desc": " C. San Juan Bosco / Av. San Ignacio'",
+            "lat": 20.66844
+         }
+      },
+      {
+         " ZPN-36": {
+            "status": "Planned",
+            "available-bikes": 6,
+            "capacity": 19,
+            "free-space": 13,
+            "long": -103.40953,
+            "station-desc": " C. Niño Obrero / C. José María Robles'",
+            "lat": 20.66731
+         }
+      },
+      {
+         " ZPN-37": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 15,
+            "free-space": 10,
+            "long": -103.40335,
+            "station-desc": " Av. San Ignacio / Av. Guadalupe'",
+            "lat": 20.66677
+         }
+      },
+      {
+         " ZPN-38": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 11,
+            "free-space": 6,
+            "long": -103.40662,
+            "station-desc": " C. Santa Rita / Av. Guadalupe'",
+            "lat": 20.66581
+         }
+      },
+      {
+         " ZPN-39": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 19,
+            "free-space": 19,
+            "long": -103.40831,
+            "station-desc": " C. Juan Diego / C. Niño Obrero'",
+            "lat": 20.66311
+         }
+      },
+      {
+         " ZPN-40": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 15,
+            "free-space": 10,
+            "long": -103.40471,
+            "station-desc": " C. Del Árbol / Av. Tepeyac'",
+            "lat": 20.66196
+         }
+      },
+      {
+         " ZPN-41": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 11,
+            "free-space": 11,
+            "long": -103.404,
+            "station-desc": " C. 12 de Diciembre / C. Juan Diego'",
+            "lat": 20.66463
+         }
+      },
+      {
+         " ZPN-42": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 15,
+            "free-space": 10,
+            "long": -103.40546,
+            "station-desc": " C. Santa María / C. Niño Obrero'",
+            "lat": 20.659
+         }
+      },
+      {
+         " ZPN-43": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 11,
+            "free-space": 6,
+            "long": -103.40195,
+            "station-desc": " C. Ermita / C. Del Árbol'",
+            "lat": 20.65938
+         }
+      },
+      {
+         " GDL-181": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 3,
+            "free-space": 3,
+            "long": -103.36315,
+            "station-desc": " C. Ignacio Ramírez / Av. Plan de San Luis'",
+            "lat": 20.69676
+         }
+      },
+      {
+         " ZPN-45": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 0,
+            "free-space": 0,
+            "long": -103.40455,
+            "station-desc": " C. Iztaccíhuatl / C. Coliman'",
+            "lat": 20.65701
+         }
+      },
+      {
+         " ZPN-46": {
+            "status": "Planned",
+            "available-bikes": 6,
+            "capacity": 19,
+            "free-space": 13,
+            "long": -103.3999,
+            "station-desc": " Av. Del Árbol / Av. Cubilete'",
+            "lat": 20.6577
+         }
+      },
+      {
+         " ZPN-47": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 15,
+            "free-space": 10,
+            "long": -103.40134,
+            "station-desc": " Av. Tizoc / Av. Adolfo López Mateos Sur'",
+            "lat": 20.65381
+         }
+      },
+      {
+         " TLQ-01": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 18,
+            "free-space": 13,
+            "long": -103.31948,
+            "station-desc": " Blvrd Gral. Marcelino García Barragán / C. Rio Tajo'",
+            "lat": 20.64483
+         }
+      },
+      {
+         " TLQ-02": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 15,
+            "free-space": 10,
+            "long": -103.31842,
+            "station-desc": " C. Rio Champotón / Blvrd. Gral. Marcelino García Barragán'",
+            "lat": 20.6429
+         }
+      },
+      {
+         " TLQ-03": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 3,
+            "free-space": 3,
+            "long": -103.31366,
+            "station-desc": " C. Contreras Medellín / C. Donato Guerra'",
+            "lat": 20.64193
+         }
+      },
+      {
+         " TLQ-04": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 15,
+            "free-space": 10,
+            "long": -103.3106,
+            "station-desc": " C. Donato Guerra / C. Obregón'",
+            "lat": 20.64185
+         }
+      },
+      {
+         " TLQ-05": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 15,
+            "free-space": 10,
+            "long": -103.30651,
+            "station-desc": " C. Zalatitán / C. Jalisco'",
+            "lat": 20.64188
+         }
+      },
+      {
+         " TLQ-06": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 15,
+            "free-space": 10,
+            "long": -103.30281,
+            "station-desc": " C. Zalatitán / Av. Francisco Silva Romero'",
+            "lat": 20.64174
+         }
+      },
+      {
+         " TLQ-07": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 15,
+            "free-space": 10,
+            "long": -103.31704,
+            "station-desc": " Blvrd. Gral. Marcelino García Barragán / C. Donato Guerra'",
+            "lat": 20.64171
+         }
+      },
+      {
+         " TLQ-08": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 2,
+            "free-space": 2,
+            "long": -103.31372,
+            "station-desc": " C. Francisco de Miranda / C. Juárez'",
+            "lat": 20.63823
+         }
+      },
+      {
+         " TLQ-09": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 15,
+            "free-space": 10,
+            "long": -103.31148,
+            "station-desc": " C. Progreso / C. Juárez'",
+            "lat": 20.63816
+         }
+      },
+      {
+         " TLQ-10": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 15,
+            "free-space": 10,
+            "long": -103.30952,
+            "station-desc": " C. Zaragoza / C. Emilio Carranza'",
+            "lat": 20.63834
+         }
+      },
+      {
+         " TLQ-11": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 15,
+            "free-space": 10,
+            "long": -103.30465,
+            "station-desc": " C. Jalisco / C. Hidalgo'",
+            "lat": 20.63922
+         }
+      },
+      {
+         " TLQ-12": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 15,
+            "free-space": 10,
+            "long": -103.3019,
+            "station-desc": " C. Paseo Don Bosco / C. Tonalá'",
+            "lat": 20.63613
+         }
+      },
+      {
+         " GDL-87": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 15,
+            "free-space": 15,
+            "long": -103.37333,
+            "station-desc": " Av. Américas / Av. López Mateos'",
+            "lat": 20.69493
+         }
+      },
+      {
+         " GDL-88": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 15,
+            "free-space": 15,
+            "long": -103.36782,
+            "station-desc": " Av. Plan de San Luis / C. Andrés Teran'",
+            "lat": 20.69712
+         }
+      },
+      {
+         " GDL-89": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 11,
+            "free-space": 11,
+            "long": -103.357069,
+            "station-desc": " C. Juan Álvarez / C. Cruz Verde'",
+            "lat": 20.684567
+         }
+      },
+      {
+         " GDL-90": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 19,
+            "free-space": 19,
+            "long": -103.35519,
+            "station-desc": " Calz. Federalismo / C. Durango'",
+            "lat": 20.69865
+         }
+      },
+      {
+         " GDL-91": {
+            "status": "Planned",
+            "available-bikes": 1,
+            "capacity": 15,
+            "free-space": 14,
+            "long": -103.349382,
+            "station-desc": " C. Magisterio / Av. Manuel Ávila Camacho'",
+            "lat": 20.696097
+         }
+      },
+      {
+         " GDL-92": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 15,
+            "free-space": 15,
+            "long": -103.35522,
+            "station-desc": " Calz. Federalismo / Av. Plan de San Luis'",
+            "lat": 20.69659
+         }
+      },
+      {
+         " GDL-93": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 15,
+            "free-space": 15,
+            "long": -103.37298,
+            "station-desc": "C. Colegio Heroico Militar / Av. Américas'",
+            "lat": 20.69311
+         }
+      },
+      {
+         " GDL-94": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 15,
+            "free-space": 15,
+            "long": -103.36757,
+            "station-desc": " C. Manuel Cambre / C. Andrés Teran'",
+            "lat": 20.69324
+         }
+      },
+      {
+         " GDL-95": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 19,
+            "free-space": 19,
+            "long": -103.35159,
+            "station-desc": " C. Mariano Barcena / Av. De los Maestros'",
+            "lat": 20.69294
+         }
+      },
+      {
+         " GDL-96": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 19,
+            "free-space": 19,
+            "long": -103.35071,
+            "station-desc": " C. Jesús García / C. Jesús González Ortega'",
+            "lat": 20.6891
+         }
+      },
+      {
+         " GDL-97": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 19,
+            "free-space": 19,
+            "long": -103.3582,
+            "station-desc": " C. José María Vigil / C. Juan N. Cumplido'",
+            "lat": 20.68981
+         }
+      },
+      {
+         " GDL-98": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 19,
+            "free-space": 19,
+            "long": -103.354209,
+            "station-desc": " Calz. Federalismo / Av. De los Maestros'",
+            "lat": 20.693072
+         }
+      },
+      {
+         " GDL-99": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 11,
+            "free-space": 11,
+            "long": -103.350525,
+            "station-desc": " C. Eulogio Parra / C. Jesús González Ortega'",
+            "lat": 20.687196
+         }
+      },
+      {
+         " GDL-100": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 15,
+            "free-space": 15,
+            "long": -103.37082,
+            "station-desc": " C. Ayuntamiento / C. Alfredo R. Plasencia'",
+            "lat": 20.69269
+         }
+      },
+      {
+         " GDL-101": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 15,
+            "free-space": 15,
+            "long": -103.37486,
+            "station-desc": " C. Amado Nervo / C. José María Vigil'",
+            "lat": 20.68969
+         }
+      },
+      {
+         " GDL-102": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 11,
+            "free-space": 11,
+            "long": -103.37071,
+            "station-desc": " C. José María Vigil / C. Manuel M. Dieguez'",
+            "lat": 20.68985
+         }
+      },
+      {
+         " GDL-103": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 15,
+            "free-space": 15,
+            "long": -103.365814,
+            "station-desc": " C. José Clemente Orozco / C. Jesús García'",
+            "lat": 20.68861
+         }
+      },
+      {
+         " GDL-104": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 19,
+            "free-space": 19,
+            "long": -103.34853,
+            "station-desc": " C. Pedro Loza / Av. Manuel Acuña'",
+            "lat": 20.68348
+         }
+      },
+      {
+         " GDL-105": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 11,
+            "free-space": 11,
+            "long": -103.34601,
+            "station-desc": " C. Pino Suárez / C. Joaquin Angulo'",
+            "lat": 20.6822
+         }
+      },
+      {
+         " GDL-106": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 15,
+            "free-space": 15,
+            "long": -103.34526,
+            "station-desc": " C. Juan Álvarez / C. Belén'",
+            "lat": 20.68465
+         }
+      },
+      {
+         " GDL-107": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 14,
+            "free-space": 14,
+            "long": -103.353973,
+            "station-desc": " Calz. Federalismo / C. José María Vigil'",
+            "lat": 20.68981
+         }
+      },
+      {
+         " GDL-108": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 11,
+            "free-space": 11,
+            "long": -103.33964,
+            "station-desc": " C. Hospital / C. Alameda'",
+            "lat": 20.68586
+         }
+      },
+      {
+         " GDL-109": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 19,
+            "free-space": 19,
+            "long": -103.37363,
+            "station-desc": " C. Eulogio Parra / Av. Américas'",
+            "lat": 20.68725
+         }
+      },
+      {
+         " GDL-110": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 11,
+            "free-space": 11,
+            "long": -103.37084,
+            "station-desc": " C. Manuel M. Diéguez /Av. Gral. Eulogio Parra'",
+            "lat": 20.68723
+         }
+      },
+      {
+         " GDL-111": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 15,
+            "free-space": 15,
+            "long": -103.336305,
+            "station-desc": " C. José Palomar / C. Hospital'",
+            "lat": 20.686228
+         }
+      },
+      {
+         " GDL-112": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 11,
+            "free-space": 11,
+            "long": -103.36582,
+            "station-desc": " C. José Clemente Orozco / C. General Eulogio Parra'",
+            "lat": 20.687
+         }
+      },
+      {
+         " GDL-113": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 15,
+            "free-space": 15,
+            "long": -103.3627436,
+            "station-desc": " C. Ghilardi / C. Arista'",
+            "lat": 20.6880807
+         }
+      },
+      {
+         " GDL-114": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 15,
+            "free-space": 15,
+            "long": -103.3361,
+            "station-desc": " C. Monte Cáucaso / C. Alameda'",
+            "lat": 20.68925
+         }
+      },
+      {
+         " GDL-115": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 15,
+            "free-space": 15,
+            "long": -103.35408,
+            "station-desc": " Calz. Federalismo / C. Francisco Zarco'",
+            "lat": 20.68605
+         }
+      },
+      {
+         " GDL-116": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 11,
+            "free-space": 11,
+            "long": -103.37989,
+            "station-desc": " Av. Manuel Acuña / C. Pablo Villaseñor'",
+            "lat": 20.68447
+         }
+      },
+      {
+         " GDL-117": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 11,
+            "free-space": 11,
+            "long": -103.37653,
+            "station-desc": " Av. Manuel Acuña / C. Fray Francisco Frejes'",
+            "lat": 20.68427
+         }
+      },
+      {
+         " GDL-118": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 15,
+            "free-space": 15,
+            "long": -103.38197,
+            "station-desc": " C. Antonio de León / C. Garibaldi'",
+            "lat": 20.68168
+         }
+      },
+      {
+         " GDL-119": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 11,
+            "free-space": 11,
+            "long": -103.3785,
+            "station-desc": " C. Francisco Rojas González / C. Garibaldi'",
+            "lat": 20.68153
+         }
+      },
+      {
+         " GDL-120": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 11,
+            "free-space": 11,
+            "long": -103.37537,
+            "station-desc": " C. Agustín de la Rosa / C. Garibaldi'",
+            "lat": 20.68132
+         }
+      },
+      {
+         " GDL-121": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 19,
+            "free-space": 19,
+            "long": -103.38253,
+            "station-desc": " C. Tomás V. Gómez / Av. México'",
+            "lat": 20.67914
+         }
+      },
+      {
+         " GDL-122": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 0,
+            "free-space": 0,
+            "long": -103.37874,
+            "station-desc": " Av. México / C. Francisco Rojas González'",
+            "lat": 20.67945
+         }
+      },
+      {
+         " GDL-123": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 11,
+            "free-space": 11,
+            "long": -103.376,
+            "station-desc": " C. Aurelio Luis Gallardo/Av. México'",
+            "lat": 20.67945
+         }
+      },
+      {
+         " GDL-124": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 15,
+            "free-space": 15,
+            "long": -103.38387,
+            "station-desc": " C. Severo Díaz / C. Justo Sierra'",
+            "lat": 20.67741
+         }
+      },
+      {
+         " GDL-125": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 15,
+            "free-space": 15,
+            "long": -103.37993,
+            "station-desc": " C. Pablo Villaseñor / Av. Miguel Hidalgo'",
+            "lat": 20.67691
+         }
+      },
+      {
+         " GDL-126": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 11,
+            "free-space": 11,
+            "long": -103.37606,
+            "station-desc": " C. Aurelio Luis Gallardo / Av. Miguel Hidalgo'",
+            "lat": 20.67647
+         }
+      },
+      {
+         " GDL-127": {
+            "status": "Planned",
+            "available-bikes": 10,
+            "capacity": 15,
+            "free-space": 5,
+            "long": -103.38702,
+            "station-desc": " Av. Adolfo López Mateos / Av. Ignacio L. Vallarta'",
+            "lat": 20.67498
+         }
+      },
+      {
+         " GDL-128": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 23,
+            "free-space": 18,
+            "long": -103.38406,
+            "station-desc": " C. Emilio Castelar / Av. Ignacio L. Vallarta'",
+            "lat": 20.67463
+         }
+      },
+      {
+         " GDL-129": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 19,
+            "free-space": 19,
+            "long": -103.37998,
+            "station-desc": " C. Lope de Vega / Av. Ignacio L. Vallarta'",
+            "lat": 20.67455
+         }
+      },
+      {
+         " GDL-130": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 0,
+            "free-space": 0,
+            "long": -103.37613,
+            "station-desc": " C. Aurelio Luis Gallardo / Av. Ignacio L. Vallarta'",
+            "lat": 20.67457
+         }
+      },
+      {
+         " GDL-131": {
+            "status": "Planned",
+            "available-bikes": 6,
+            "capacity": 19,
+            "free-space": 13,
+            "long": -103.38374,
+            "station-desc": " Av. De la Paz / C. Emilio Castelar'",
+            "lat": 20.67224
+         }
+      },
+      {
+         " GDL-132": {
+            "status": "Planned",
+            "available-bikes": 8,
+            "capacity": 11,
+            "free-space": 3,
+            "long": -103.37984,
+            "station-desc": " C. Lope de Vega / Av. De la Paz'",
+            "lat": 20.67189
+         }
+      },
+      {
+         " GDL-133": {
+            "status": "Planned",
+            "available-bikes": 7,
+            "capacity": 15,
+            "free-space": 8,
+            "long": -103.37608,
+            "station-desc": " C. Juan Ruíz de Alarcón / Av. De la Paz'",
+            "lat": 20.67189
+         }
+      },
+      {
+         " GDL-134": {
+            "status": "Planned",
+            "available-bikes": 8,
+            "capacity": 19,
+            "free-space": 11,
+            "long": -103.38448,
+            "station-desc": " C. Agustín Yáñez / C. Francisco Ugarte'",
+            "lat": 20.67016
+         }
+      },
+      {
+         " GDL-135": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 0,
+            "free-space": 0,
+            "long": -103.3731,
+            "station-desc": " C. Victoriano Agüeros / Av. Unión'",
+            "lat": 20.66868
+         }
+      },
+      {
+         " GDL-136": {
+            "status": "Planned",
+            "available-bikes": 6,
+            "capacity": 19,
+            "free-space": 13,
+            "long": -103.37983,
+            "station-desc": " C. Lope de Vega / C. Efraín González Luna'",
+            "lat": 20.66927
+         }
+      },
+      {
+         " GDL-137": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 11,
+            "free-space": 6,
+            "long": -103.37618,
+            "station-desc": " C. Juan Ruíz de Alarcón / C. Efraín González Luna'",
+            "lat": 20.66938
+         }
+      },
+      {
+         " GDL-138": {
+            "status": "Planned",
+            "available-bikes": 6,
+            "capacity": 19,
+            "free-space": 13,
+            "long": -103.39147,
+            "station-desc": " C. de la Nebulosa / C. Placeres'",
+            "lat": 20.66566
+         }
+      },
+      {
+         " GDL-139": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 15,
+            "free-space": 15,
+            "long": -103.38863,
+            "station-desc": " C. Firmamento / Av. Niños Héroes'",
+            "lat": 20.66667
+         }
+      },
+      {
+         " GDL-140": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 11,
+            "free-space": 6,
+            "long": -103.38488,
+            "station-desc": " C. Constelación / C. Los Arcos'",
+            "lat": 20.66816
+         }
+      },
+      {
+         " GDL-141": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 15,
+            "free-space": 10,
+            "long": -103.37621,
+            "station-desc": " C. Juan Ruíz de Alarcón / C. Agustín Yáñez'",
+            "lat": 20.66702
+         }
+      },
+      {
+         " GDL-142": {
+            "status": "Planned",
+            "available-bikes": 6,
+            "capacity": 19,
+            "free-space": 13,
+            "long": -103.38855,
+            "station-desc": " C. De la Nebulosa / C. Firmamento'",
+            "lat": 20.6647
+         }
+      },
+      {
+         " GDL-143": {
+            "status": "Planned",
+            "available-bikes": 8,
+            "capacity": 23,
+            "free-space": 15,
+            "long": -103.38407,
+            "station-desc": " C. Eclipse / C. Los Arcos'",
+            "lat": 20.6625
+         }
+      },
+      {
+         " GDL-144": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 3,
+            "free-space": 3,
+            "long": -103.39741,
+            "station-desc": " C. San Bonifacio / Av. San Francisco'",
+            "lat": 20.66945
+         }
+      },
+      {
+         " GDL-145": {
+            "status": "Planned",
+            "available-bikes": 6,
+            "capacity": 19,
+            "free-space": 13,
+            "long": -103.3947,
+            "station-desc": " C. San Miguel / Av. San Francisco'",
+            "lat": 20.66736
+         }
+      },
+      {
+         " GDL-146": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 11,
+            "free-space": 6,
+            "long": -103.39991,
+            "station-desc": " Av. Guadalupe / C. Fernando de Alba'",
+            "lat": 20.66626
+         }
+      },
+      {
+         " GDL-147": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 3,
+            "free-space": 3,
+            "long": -103.39654,
+            "station-desc": " Calz. Lázaro Cárdenas / Av. Guadalupe'",
+            "lat": 20.66623
+         }
+      },
+      {
+         " GDL-148": {
+            "status": "Planned",
+            "available-bikes": 6,
+            "capacity": 13,
+            "free-space": 7,
+            "long": -103.39882,
+            "station-desc": " C. Antonio Valeriano / Av. Tepeyac'",
+            "lat": 20.66466
+         }
+      },
+      {
+         " GDL-149": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 11,
+            "free-space": 11,
+            "long": -103.39368,
+            "station-desc": " Calz. Lázaro Cárdenas / Av. Adolfo López Mateos'",
+            "lat": 20.66527
+         }
+      },
+      {
+         " GDL-150": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 11,
+            "free-space": 11,
+            "long": -103.39139,
+            "station-desc": " C. San José / C. Chapalita'",
+            "lat": 20.66205
+         }
+      },
+      {
+         " GDL-151": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 15,
+            "free-space": 10,
+            "long": -103.39496,
+            "station-desc": " C. Capuchinas / C. Chapalita'",
+            "lat": 20.66
+         }
+      },
+      {
+         " GDL-152": {
+            "status": "Planned",
+            "available-bikes": 6,
+            "capacity": 19,
+            "free-space": 13,
+            "long": -103.38884,
+            "station-desc": " C. Parque de las Estrellas / C. Orión'",
+            "lat": 20.65931
+         }
+      },
+      {
+         " GDL-153": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 11,
+            "free-space": 6,
+            "long": -103.39092,
+            "station-desc": " C. Crepúsculo / Av. Tonantzin'",
+            "lat": 20.65846
+         }
+      },
+      {
+         " GDL-154": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 15,
+            "free-space": 10,
+            "long": -103.39359,
+            "station-desc": " C. Capuchinas / Av. De las Rosas'",
+            "lat": 20.65768
+         }
+      },
+      {
+         " GDL-155": {
+            "status": "Planned",
+            "available-bikes": 6,
+            "capacity": 19,
+            "free-space": 13,
+            "long": -103.38745,
+            "station-desc": " C. Parque de las Estrellas / Av. Mariano Otero'",
+            "lat": 20.65762
+         }
+      },
+      {
+         " GDL-156": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 15,
+            "free-space": 15,
+            "long": -103.38956,
+            "station-desc": " C. Crepúsculo / Av. Mariano Otero'",
+            "lat": 20.6564
+         }
+      },
+      {
+         " GDL-157": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 15,
+            "free-space": 10,
+            "long": -103.39162,
+            "station-desc": " Av. Mariano Otero/Av. De las Rosas'",
+            "lat": 20.65454
+         }
+      },
+      {
+         " GDL-158": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 0,
+            "free-space": 0,
+            "long": -103.39358,
+            "station-desc": " C. Privada Topacio / C. Topacio'",
+            "lat": 20.65298
+         }
+      },
+      {
+         " GDL-159": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 19,
+            "free-space": 19,
+            "long": -103.33357,
+            "station-desc": " C. Guadalupe Victoria / Av. Del Ejercito'",
+            "lat": 20.66468
+         }
+      },
+      {
+         " GDL-160": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 11,
+            "free-space": 11,
+            "long": -103.3315,
+            "station-desc": " C. Dr. Silverio Garcia / Blvrd. Gral. Marcelino García Barragán'",
+            "lat": 20.66114
+         }
+      },
+      {
+         " GDL-161": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 19,
+            "free-space": 19,
+            "long": -103.33055,
+            "station-desc": " C. Rio Usumacinta / Blvrd. Gral. Marcelino García Barragán'",
+            "lat": 20.65925
+         }
+      },
+      {
+         " GDL-162": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 19,
+            "free-space": 19,
+            "long": -103.33046,
+            "station-desc": " C. Rio Tuxpan / C. Salvador Lopez Chavez'",
+            "lat": 20.65721
+         }
+      },
+      {
+         " GDL-163": {
+            "status": "Planned",
+            "available-bikes": 6,
+            "capacity": 14,
+            "free-space": 8,
+            "long": 103.32879,
+            "station-desc": " C. Rio suchiate / Blvrd. Gral. Marcelino García Barragán'",
+            "lat": 20.65788
+         }
+      },
+      {
+         " GDL-164": {
+            "status": "Planned",
+            "available-bikes": 4,
+            "capacity": 15,
+            "free-space": 11,
+            "long": -103.32186,
+            "station-desc": " Av. Olímpica /C. José Rolon'",
+            "lat": 20.655
+         }
+      },
+      {
+         " GDL-165": {
+            "status": "Planned",
+            "available-bikes": 6,
+            "capacity": 18,
+            "free-space": 12,
+            "long": -103.32553,
+            "station-desc": " C. Rio Panuco/ Blvrd. Gral. Marcelino García Barragán'",
+            "lat": 20.65251
+         }
+      },
+      {
+         " GDL-166": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 19,
+            "free-space": 19,
+            "long": -103.32732,
+            "station-desc": " C. Rio Principal / Blvrd. Gral. Marcelino García Barragán'",
+            "lat": 20.65485
+         }
+      },
+      {
+         " GDL-167": {
+            "status": "Planned",
+            "available-bikes": 4,
+            "capacity": 15,
+            "free-space": 11,
+            "long": -103.32356,
+            "station-desc": " C. Rio San Juan de Dios / Blvrd. Gral. Marcelino García Barragán'",
+            "lat": 20.64962
+         }
+      },
+      {
+         " GDL-168": {
+            "status": "Planned",
+            "available-bikes": 7,
+            "capacity": 19,
+            "free-space": 12,
+            "long": -103.31939,
+            "station-desc": " Av. Rio Nilo / C. Ramón Pacheco'",
+            "lat": 20.64874
+         }
+      },
+      {
+         " GDL-169": {
+            "status": "Planned",
+            "available-bikes": 1,
+            "capacity": 1,
+            "free-space": 0,
+            "long": -103.32147,
+            "station-desc": " Blvrd. Gral Marcelino García Barragán / C. Rio Zapotlanejo'",
+            "lat": 20.64707
+         }
+      },
+      {
+         " GDL-170": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 15,
+            "free-space": 10,
+            "long": -103.30619,
+            "station-desc": " C. Relojeros/ C. Chamizal'",
+            "lat": 20.64698
+         }
+      },
+      {
+         " GDL-171": {
+            "status": "Planned",
+            "available-bikes": 6,
+            "capacity": 19,
+            "free-space": 13,
+            "long": -103.3103,
+            "station-desc": " C. Maquinistas / C. San Rafael'",
+            "lat": 20.64611
+         }
+      },
+      {
+         " GDL-172": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 19,
+            "free-space": 19,
+            "long": -103.30678,
+            "station-desc": " C. Chamizal / Av. Rio Nilo'",
+            "lat": 20.64434
+         }
+      },
+      {
+         " GDL-173": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 19,
+            "free-space": 19,
+            "long": -103.30518,
+            "station-desc": " C. Caballerango / C. Caporales'",
+            "lat": 20.64504
+         }
+      },
+      {
+         " GDL-174": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 11,
+            "free-space": 11,
+            "long": -103.40028,
+            "station-desc": " C. Fray Juan de Zumárraga / Av. Tepeyac'",
+            "lat": 20.66406
+         }
+      },
+      {
+         " GDL-175": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 11,
+            "free-space": 6,
+            "long": -103.39939,
+            "station-desc": " C. Ermita / Av. De las Rosas'",
+            "lat": 20.66123
+         }
+      },
+      {
+         " GDL-176": {
+            "status": "Planned",
+            "available-bikes": 5,
+            "capacity": 11,
+            "free-space": 6,
+            "long": -103.39681,
+            "station-desc": " C. Chapalita / Av. De las Rosas'",
+            "lat": 20.65884
+         }
+      },
+      {
+         " GDL-177": {
+            "status": "Planned",
+            "available-bikes": 0,
+            "capacity": 15,
+            "free-space": 15,
+            "long": -103.37657,
+            "station-desc": " C. Fray Francisco Frejes / C. Francisco Zarco'",
+            "lat": 20.68669
+         }
+      }
+   ]
+}
